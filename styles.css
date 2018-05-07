@@ -1,0 +1,18 @@
+/*http://paletton.com/#uid=12y0u0kgfoEqlckqPeL6hDg6Fgf*/
+
+body {
+	font-family: 'Nunito', sans-serif;
+	background-image: url("court.jpg");
+	background-attachment: fixed;
+	background-size: 100%;
+	width: 800px;
+}
+
+h1, h2, h3, h4, p, ul, ol, li {
+	color: #345810;
+}
+
+#text {
+	background-color: #D5ECBE;
+	opacity: 0.8;
+}
